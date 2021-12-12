@@ -1,2 +1,2 @@
-x='Hello Word'
+x='Hello India'
 print x
